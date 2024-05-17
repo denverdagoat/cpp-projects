@@ -1,4 +1,3 @@
-/* Sample C++ code */
 #include <iostream>
 #include <cstdlib> 
 #include <ctime>
